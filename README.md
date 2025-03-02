@@ -1,4 +1,3 @@
-
 # Reshareshing Tools
 
 Reshareshing Tools adalah skrip Python command-line untuk mengumpulkan data proyek dan mengirimkannya ke Telegram serta Google Sheets.
@@ -40,7 +39,4 @@ python reshareshing.py
 ├── webhook.txt             # Konfigurasi: URL webhook untuk Google Sheets
 ├── requirements.txt        # Dependencies Python
 └── data_reshareshing/      # Folder untuk menyimpan data proyek
-```
-```
 
-Anda dapat mengupload README ini ke GitHub agar pengguna lain dapat memahami cara kerja dan penggunaan proyek ini.
